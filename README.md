@@ -100,7 +100,13 @@ Sistema administrativo con lógica relacional compleja.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vmg22&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmg22&layout=compact&theme=radical&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vmg22&show_icons=true&theme=radical"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmg22&layout=compact&theme=radical"
+    height="165"
+  />
 </div>
 
