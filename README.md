@@ -1,4 +1,4 @@
-# ¡Hola! Soy Matías Garranca 👋
+# ¡Hola! Soy Matías Garnica 👋
 
 ### 🚀 Desarrollador Fullstack | React | Node.js | Python
 
