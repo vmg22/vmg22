@@ -1,11 +1,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90" />
 
-  <h1>Hola, soy Matías Garnica 👋</h1>
-  <h3>Full Stack Developer · MERN · Arquitecturas modernas</h3>
+  <h1>Matías Garnica</h1>
+  <h3>Full Stack Developer · MERN · Sistemas escalables</h3>
 
   <p>
-    Desarrollo aplicaciones web escalables, orientadas a negocio y con foco en experiencia de usuario.
+    Desarrollo aplicaciones web modernas, enfocadas en resolver problemas reales de negocio
+    con código limpio, arquitectura clara y buena experiencia de usuario.
   </p>
 
   <p>
@@ -20,93 +21,140 @@
 
 ---
 
-## 🚀 Sobre mí
+## 👋 Perfil Profesional
 
-Soy **Desarrollador de Software Full Stack**, enfocado en convertir requerimientos complejos en **soluciones claras, mantenibles y escalables**.
+Soy **Desarrollador Full Stack** con foco en construir **soluciones web escalables, mantenibles y orientadas a negocio**.
 
-Me gradué recientemente y trabajo principalmente con el **stack MERN**, integrando APIs externas, servicios cloud y bases de datos relacionales para resolver problemas reales de negocio.
+Trabajo principalmente con el **ecosistema MERN**, integrando APIs externas, servicios cloud y bases de datos relacionales. Me destaco por **entender el problema antes de escribir código** y diseñar soluciones claras, eficientes y fáciles de evolucionar.
 
-Actualmente desarrollo **sistemas logísticos** y **plataformas SaaS**, combinando proyectos profesionales y trabajos freelance.
-
-- 🔭 **En desarrollo:**  
-  - 🍊 [CitrusTrack](https://github.com/vmg22/Citru-Track) – Sistema logístico  
-  - 📸 [PhotoFest](https://github.com/vmg22/PhotoFest) – Plataforma para eventos
-- 🌱 **Aprendiendo:** Microservicios, optimización avanzada de SQL y diseño de arquitecturas escalables
-- ⚡ **Extra:** Fitness & disciplina → mismo enfoque en el código: constancia y mejora continua
+Actualmente participo en el desarrollo de **sistemas logísticos**, **plataformas SaaS** y proyectos freelance.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🚀 En qué estoy trabajando
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-</p>
+* 🍊 **CitrusTrack** — Sistema de trazabilidad logística para exportación
+* 📸 **PhotoFest** — Plataforma SaaS para eventos con carga de fotos vía QR
+* 🏫 **SGGS** — Sistema administrativo escolar con lógica relacional compleja
 
-### ⚙️ Backend & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-404D59?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</p>
+📌 Enfoque actual: **arquitectura, performance y escalabilidad**
 
-### 🧰 Herramientas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
+---
+
+## 🧠 Tecnologías Principales
+
+### Frontend
+
+* React (Vite)
+* Zustand
+* Tailwind CSS / Bootstrap
+* UX orientado a producto
+
+### Backend & Datos
+
+* Node.js · Express
+* MySQL
+* Diseño de APIs REST
+* Integridad y modelado relacional
+
+### Cloud & Integraciones
+
+* Cloudinary
+* Google APIs
+* Manejo de archivos y media
+* Integración de servicios externos
+
+### Herramientas
+
+* Git · GitHub
+* Postman
+* Control de versiones y flujos colaborativos
 
 ---
 
 ## 📂 Proyectos Destacados
 
 ### 🍊 CitrusTrack — Trazabilidad Logística
-🔗 https://github.com/vmg22/Citru-Track  
+
+🔗 [https://github.com/vmg22/Citru-Track](https://github.com/vmg22/Citru-Track)
 
 Sistema integral para el seguimiento de lotes de cítricos desde la cosecha hasta la exportación.
 
-- **Stack:** React · Node.js · MySQL · Zustand  
-- **Destacado:** Dashboard logístico en tiempo real + generación de reportes QR
+**Qué resuelve**
+
+* Control de stock y estados logísticos
+* Seguimiento por lote
+* Reportes claros para toma de decisiones
+
+**Stack**
+
+* React · Node.js · MySQL · Zustand
 
 ---
 
 ### 📸 PhotoFest — Live Social Gallery
-🔗 https://github.com/vmg22/PhotoFest  
 
-Plataforma SaaS para eventos donde los invitados suben fotos en tiempo real mediante QR.
+🔗 [https://github.com/vmg22/PhotoFest](https://github.com/vmg22/PhotoFest)
 
-- **Stack:** React 19 · Node.js · Cloudinary · Google APIs  
-- **Destacado:** Arquitectura ligera tipo serverless con integración de APIs externas y caché en memoria
+Plataforma SaaS para eventos donde los invitados suben fotos en tiempo real escaneando un QR.
+
+**Qué resuelve**
+
+* Recolección centralizada de fotos
+* Experiencia simple para invitados
+* Visualización en tiempo real
+
+**Stack**
+
+* React 19 · Node.js · Cloudinary · Google APIs
 
 ---
 
 ### 🏫 SGGS — Sistema de Gestión Escolar
-🔗 https://github.com/vmg22/Sistema_Colegio  
 
-Sistema administrativo con lógica relacional compleja.
+🔗 [https://github.com/vmg22/Sistema_Colegio](https://github.com/vmg22/Sistema_Colegio)
 
-- **Stack:** React (Vite) · Express · MySQL  
-- **Destacado:** Gestión de integridad referencial (alumnos, materias y calificaciones)
+Sistema administrativo con reglas de negocio y relaciones complejas.
+
+**Qué resuelve**
+
+* Gestión de alumnos, materias y notas
+* Integridad referencial
+* Administración académica centralizada
+
+**Stack**
+
+* React (Vite) · Express · MySQL
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vmg22&show_icons=true&theme=radical"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmg22&layout=compact&theme=radical"
-    height="165"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vmg22&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmg22&layout=compact&theme=radical" height="160"/>
 </div>
+
+---
+
+## 💡 Filosofía de trabajo
+
+* Código claro > código complejo
+* Resolver el problema > usar la moda
+* Mejora continua, constancia y disciplina
+
+(El mismo enfoque que aplico en el gimnasio 💪)
+
+---
+
+## 📬 Contacto
+
+📧 **Email:** [devtuc25@gmail.com](mailto:devtuc25@gmail.com)
+💼 **LinkedIn:** linkedin.com/in/matias-garnica22
+
+Siempre abierto a:
+
+* Nuevos desafíos
+* Proyectos freelance
+* Oportunidades profesionales
 
